@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGBczXB8mY9kw/profile-displaybackgroundimage-shrink_350_1400/0/1655819947928?e=1664409600&v=beta&t=ztEH3f2s_3twrc5WEtNdUMuYAAF_7SXyUV9l3uIWx5k)
+![MERN Stack Developer]
 # Hi, I'm Riaj
 ### MERN Stack Developer
 
